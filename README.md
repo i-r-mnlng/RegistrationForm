@@ -1,2 +1,2 @@
 # RegistrationForm
-freeCodeCamp Project Link: https://i-r-mnlng.github.io/RegistrationForm/
+freeCodeCamp Project 1 - Link: https://i-r-mnlng.github.io/RegistrationForm/
